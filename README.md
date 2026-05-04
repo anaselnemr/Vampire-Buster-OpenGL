@@ -90,5 +90,4 @@ Built for the **Computer Graphics** course in the **B.Sc. Computer Science & Eng
 
 ## Authors
 
-- **Anas ElNemr** — [@anaselnemr](https://github.com/anaselnemr)
-- **Ahmed Eltawel**
+Anas ElNemr  ·  Ahmed Eltawel
